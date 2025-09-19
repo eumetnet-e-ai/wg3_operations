@@ -10,6 +10,8 @@ This guide is structured into three complementary perspectives — Machine Learn
 - [Development](./dev.md)  _Standards for coding, testing, configuration management, and CI/CD automation._  
 - [Operations](./ops.md)   _Guidelines for deployment, monitoring, security, and reliability of ML systems._
 
+📑 For a high-level overview of these practices, see the [E-AI Summer Workshop 2025 Presentation](./20250710_MLOps_best_practices.pptx).
+
 ## 📖 Usage
 Each document can be viewed directly in GitHub by clicking the links above. Clone this repository and open the files locally for editing or offline reading.
 
@@ -17,4 +19,5 @@ Each document can be viewed directly in GitHub by clicking the links above. Clon
 The contents of this guide have been initially collected and written by Gabriela Aznar Siguan as part of **E-AI's Working Group on ML Frameworks and MLOps**.  
 
 This is a living document: contributions, corrections, and extensions from the community are welcome through pull requests and issues.  
+
 
